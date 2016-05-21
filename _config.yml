@@ -1,7 +1,7 @@
 name: Pearly Pages
 favicon: null
-layout_spectrum: 0.15565142105333507
-typography_spectrum: 0.4455126519314945
+layout_spectrum: 0.91963
+typography_spectrum: 0.63083
 title: Book Blurbs and Reviews
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.6037080644164234
-  lightness: 0.8106744093820453
-  saturation: 0.5271712471731007
-  rhythmicContrast: 0.9294477347284555
+    - '#decdbc'
+    - '#211d38'
+    - '#cc1b63'
+    - '#625188'
+    - '#95a9aa'
+  brandStrength: 0.6875
+  lightness: 0.25
+  saturation: 0.5
+  rhythmicContrast: 1
 purpose: []
