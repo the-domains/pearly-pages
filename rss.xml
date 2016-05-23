@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Book Blurbs and Reviews]]></title>
+        <description><![CDATA[Book Blurbs and Reviews]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 23 May 2016 03:46:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Heat & Light]]></title>
+            <description><![CDATA[<article><h1>Heat & Light</h1><p>Heat & Light a multilayered drama set in a small Pennsylvania town. Bakerton, once known for its coal mines and farming lapsed into a slow decline. The discovery of a massive deposit of natural gas has attracted the attention of a businessman from Texas. Who then starts sending salesmen to convince citizens to sign away their mineral rights.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6869ca39baed8dad7c6566e7a3399ef2ddf68d9.png"></article>]]></description>
+            <link>undefinedheat-and-light/index.html</link>
+            <guid isPermaLink="false">3f576586-cda4-4343-b2bf-882e87db35ef</guid>
+            <pubDate>Mon, 23 May 2016 03:46:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
